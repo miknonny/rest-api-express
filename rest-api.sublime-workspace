@@ -1,0 +1,648 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conso",
+				"console.info(message);"
+			],
+			[
+				"activeVisitors",
+				"activeVisitorsRef"
+			],
+			[
+				"findUser",
+				"findByUsernameMiddleware"
+			],
+			[
+				"p",
+				"people.json"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"app",
+				"AppTemplate.js"
+			],
+			[
+				"rrc",
+				"rrc	render-component"
+			],
+			[
+				"rc",
+				"rcl	reactClass"
+			],
+			[
+				"cw",
+				"cwm	React: componentWillMount: fn() { ... }"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"templat",
+				"templateUrl"
+			],
+			[
+				"an",
+				"angular-route.min.js"
+			],
+			[
+				"angular",
+				"angular.route.min.js"
+			],
+			[
+				"ng-v",
+				"ng-view	AngularJS"
+			],
+			[
+				"$route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"killer",
+				"killerRabbit"
+			],
+			[
+				"white",
+				"whiteRabbit"
+			],
+			[
+				"avreage",
+				"averageScore"
+			],
+			[
+				"ion",
+				"ionic.bundle.js"
+			],
+			[
+				"j",
+				"ionic.js"
+			],
+			[
+				"min",
+				"ionic.min.js"
+			],
+			[
+				"ng-s",
+				"ng-show	AngularJS"
+			],
+			[
+				"toggle",
+				"toggleLeft"
+			],
+			[
+				"project",
+				"projectString"
+			],
+			[
+				"modal",
+				"module._resolveLookupPaths(request, parent);"
+			],
+			[
+				"ngre",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"H1",
+				"h1"
+			],
+			[
+				"ng",
+				"ng-app	AngularJS"
+			],
+			[
+				"nexus",
+				"nexusImages"
+			],
+			[
+				"superhero",
+				"superheroCtrl"
+			],
+			[
+				"v",
+				"views/"
+			],
+			[
+				"$oot",
+				"$rootScope"
+			],
+			[
+				"ng-c",
+				"ng-click	AngularJS"
+			],
+			[
+				"$rou",
+				"$routeProvider.when	AngularJS"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"consoe",
+				"console.log(message);"
+			],
+			[
+				"lo",
+				"console.log(message);"
+			],
+			[
+				"create",
+				"net.createServer();"
+			],
+			[
+				"parse",
+				"parseInt  (function)"
+			],
+			[
+				"set",
+				"setTimeout(function, milliseconds);"
+			],
+			[
+				"clear",
+				"clearInterval();"
+			],
+			[
+				"pa",
+				"passwd/"
+			],
+			[
+				"re",
+				"require  (function)"
+			],
+			[
+				"a",
+				"ac	appendChild"
+			],
+			[
+				"un",
+				"fs.unlink(path, callback);"
+			],
+			[
+				"node",
+				"node.http.createServer	Snippet: HTTP Create Server"
+			],
+			[
+				"fs",
+				"fs.unwatchFile(filename);"
+			],
+			[
+				"ng-re",
+				"ng-mouseover	AngularJS"
+			],
+			[
+				"post",
+				"postData"
+			],
+			[
+				"postD",
+				"postDataChunk"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"content",
+				"Content-Type"
+			],
+			[
+				"req",
+				"requestHandlers"
+			],
+			[
+				"pth",
+				"pathname"
+			],
+			[
+				"path",
+				"pathname"
+			],
+			[
+				"reso",
+				"response"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: React: this.refs."
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remoce",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"Git: ",
+				"Git: Stash"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 284.0,
+		"history":
+		[
+			"sublime.packages_path()",
+			"sublime.packages_path",
+			"sublime",
+			"print(\"mike\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/rest-api-express/express.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/rest-api-express/express.test.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/rest-api-express/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/rest-api-express/request.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/app.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/routes/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/routes/tasks.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/views/layout.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/public/stylesheet/main.less",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/views/index.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/views/tasks_completed.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/views/task.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/instagram_gallery/views/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/instagram_gallery/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/instagram_gallery/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/instagram_gallery/css/flatly-bootstrap.min.css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/instagram_gallery/css/bootstrap-responsive.min.css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/proexpressjs/ch8/views/render.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/proexpressjs/ch8/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/proexpressjs/ch8/app.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/proexpressjs/ch8/views/layout.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-analytics/tutorial.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/dashboard.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/scripts/dashboard.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/webpack.config.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/scripts/analytics.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/scripts/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/scripts/App.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react_rocks/react-count/examples/button/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react_rocks/react-count/examples/button/App.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/proexpressjs/ch4/app.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/ch2/cli-app/app.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/ch2/cli-app/bin/app_set.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/app.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/views/photos/index.ejs",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/filerename.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/views/photos/upload.ejs",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/routes/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/routes/photos.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/public/photos/62b434877537806e7ec8877937bc94d8.jpg",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/public/photos/b8f4253f2302a00439bba90bdc489092.jpg",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/public/stylesheets/style.css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_app/routes/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/routes/users.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/routes/submit.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/routes/form.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/models/Photo_model.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/scripts/CommentBox.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/jsonServer.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/css/base.css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/base.css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/bin/www",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/views/index.ejs",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/node_and_express_webdev/travel_express/.gitignore",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/node_and_express_webdev/travel_express/meadowlark.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/node_and_express_webdev/travel_express/README.md",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/Express/server.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/scripts/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/comments.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/people.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/superagent.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConnectBuiltInMiddleware/logger.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConnectBuiltInMiddleware/cookieParser.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConnectBuiltInMiddleware/bodyParser.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConnectBuiltInMiddleware/connect.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConnectBuiltInMiddleware/node_modules/connect/History.md",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConectBuiltInMiddleware",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/Connect/multiErrorHandler.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/Connect/error.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ErrorHandling/error.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Todo_react/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Todo_react/scripts/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Todo_react/scripts/App.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Todo_react/scripts/TwoWay.js",
+		"/Users/nonnycode/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react docs/scripts/App.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react docs/scripts/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold copy/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold/server.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold copy/README.md",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold copy/.gitignore",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold copy/.jshintrc",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold copy/server.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/Connect/connect.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/TodoList/todo.js",
+		"/Users/nonnycode/Library/Mobile Documents/com~apple~CloudDocs/movies to watch",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/OpenSSL/HTTPSServer.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/key.pem",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/StaticFileServer/server.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/restAPI/rest.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/random_story/main.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/publishSubscribe/chat.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/telnetServer/telnet.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/SimpleCallbacks/titles.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/SimpleCallbacks/template.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/simplehttpServer/blog_recent.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/chatrooms/public/javascript/chat_ui.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/chatrooms/public/javascript/chat.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/chatrooms/public/stylesheets/style.css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/chatrooms/lib/chat_server.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/chatrooms/server.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/chatrooms/public/hiddenIndex.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/chatrooms/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/simplehttpServer/resource.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/simplehttpServer/simpleHttpServer.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/resource.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Reflux_store/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/reflux-actions/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/reflux-hotloader/people.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/reflux-hotloader/superagent.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/reflux-hotloader/scripts/App.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/reflux-hotloader/scripts/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/reflux-hotloader/webpack.config.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/webpack-project/webpack.config.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Reflux_store/build/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Reflux_store/webpack.config.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/flux/src/js/components/catalog/AppAddToCart.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Reflux_store/README.md",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/flux/src/js/stores/babel.jsx",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/webpack-project/app/main.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/webpack-project/app/AppComponent.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/webpack-project/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/webpack-project/build/index.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"content",
+			"route",
+			"snapshot",
+			": ",
+			"\n",
+			"[",
+			"\n",
+			"fs",
+			"};",
+			"javascript",
+			"map",
+			"});",
+			"();\n",
+			");\n",
+			"prev",
+			"; ",
+			"novalidate",
+			"an",
+			"state",
+			"title",
+			"wind",
+			">\n",
+			"\n",
+			"abilities",
+			"customer",
+			"\"",
+			"$scope.bad = function () {\n		$scope.spice = 'bad';\n	}\n",
+			"{\n	\"name\": \"file-explorer\",\n	\"version\"; '0.0.1'\n	\"description\": \"A commandline file explorer\"\n}",
+			"	\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 19.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 151.0
+	},
+	"project": "rest-api.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"comments.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/lab/studyApp/studyApp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
